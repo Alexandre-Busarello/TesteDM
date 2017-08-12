@@ -1,4 +1,4 @@
-Esta aplicação foi escrita utilizando angular, less e grunt para minificação e junção dos arquivos .js e .css.
+Esta aplicação foi escrita utilizando angularJS, less e grunt para minificação e junção dos arquivos .js e .css.
 Para rodar esta aplicação basta executar o npm install no diretório raiz, e iniciar o servidor web utilizando o comando "http-server" no cmd na raiz do projeto. Com isso um servidor http simples ira iniciar a aplicação.
 
 Após isso a aplicação podera ser acessada em: localhost:8080.
